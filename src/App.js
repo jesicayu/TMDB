@@ -73,8 +73,7 @@ const App = () => {
           }
         ></Route>
         <Route
-          exact
-          path=":type"
+          path="/:type"
           element={
             <Content
               user={user}
