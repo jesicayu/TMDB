@@ -2,7 +2,7 @@
 
 <div align="center">
   🎬
-<h2 align="center">project_title</h2>
+<h2 align="center">THE MOVIE DATABASE</h2>
 
   <p align="center">
     A movies and series catalog that allows users to search and manage a personal favorite list, consuming information from The Movie Database (https://www.themoviedb.org/).
@@ -44,14 +44,11 @@
 
 ### Built With
 
-* [![Next][Next.js]][Next-url]
 * [![React][React.js]][React-url]
-* [![Vue][Vue.js]][Vue-url]
-* [![Angular][Angular.io]][Angular-url]
-* [![Svelte][Svelte.dev]][Svelte-url]
-* [![Laravel][Laravel.com]][Laravel-url]
-* [![Bootstrap][Bootstrap.com]][Bootstrap-url]
-* [![JQuery][JQuery.com]][JQuery-url]
+* [![Node][Node]][Node-url]
+* [![Express][Express]][Express-url]
+* [![PostgreSQL][PostgreSQL]][PostgreSQL-url]
+* [![Sequelize][Sequelize]][Sequelize-url]
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
