@@ -53,6 +53,7 @@
 ### Built With
 
 * [![React][React.js]][React-url]
+* [![Bulma][Bulma]][Bulma-url]
 * [![Node][Node]][Node-url]
 * [![Express][Express]][Express-url]
 * [![PostgreSQL][PostgreSQL]][PostgreSQL-url]
@@ -125,6 +126,8 @@ Project Link: https://github.com/jesicayu/TMDB
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://www.linkedin.com/in/jesica-yu/
 [product-screenshot]: images/screenshot.png
+[Bulma]: https://img.shields.io/badge/bulma-00D0B1?style=for-the-badge&logo=bulma&logoColor=white
+[Bulma-url]: https://bulma.io/
 [Next.js]: https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white
 [Next-url]: https://nextjs.org/
 [React.js]: https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB
