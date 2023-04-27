@@ -1,7 +1,7 @@
 const express = require("express");
 const router = express.Router();
 const { Favorite, User } = require("../models");
-// const { API_KEY } = require("../config/envs");
+// const { API_KEY } = require("../config/keys");
 // const axios = require("axios");
 
 router.get("/", (req, res) => {
