@@ -43,7 +43,7 @@ const Card = ({
           </figure>
         </Link>
       </div>
-      <div className="card-content">
+      <div className="card-content"  style={{ height: "14rem" }}>
         <div className="media">
           <div className="media-content">
             <div className="columns">
