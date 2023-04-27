@@ -18,6 +18,7 @@
     <li>
       <a href="#about-the-project">About The Project</a>
       <ul>
+         <li><a href="#features">Features</a></li>
         <li><a href="#built-with">Built With</a></li>
       </ul>
     </li>
@@ -31,8 +32,6 @@
   </ol>
 </details>
 
-
-
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
@@ -40,7 +39,16 @@
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
+### Features
 
+- Create users.
+- Log in and log out users.
+- Search for movies and TV shows.
+- View details of a chosen movie or TV show.
+- Favorite movies and TV shows to curate a personalized list.
+- Remove movies and TV shows from the favorite list.
+- View a list of your favorited movies and TV shows.
+- Maintain the session of a user open upon refreshing the browser.
 
 ### Built With
 
@@ -52,8 +60,6 @@
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-
-
 <!-- GETTING STARTED -->
 ## Getting Started
 
@@ -62,26 +68,33 @@ To get a local copy up and running follow these simple example steps.
 
 ### Prerequisites
 
-This is an example of how to list things you need to use the software and how to install them.
-* npm
-  ```sh
-  npm install npm@latest -g
-  ```
+In order to run this project, you need to first install:
+
+- PostgreSQL
+- Node.js
 
 ### Installation
 
-1. Get a free API Key at [https://example.com](https://example.com)
+1. Get a free API Key at https://developers.themoviedb.org/3
 2. Clone the repo
-   ```sh
-   git clone https://github.com/github_username/repo_name.git
+   ```
+   git clone https://github.com/jesicayu/TMDB
    ```
 3. Install NPM packages
-   ```sh
+   ```
    npm install
    ```
-4. Enter your API in `config.js`
-   ```js
+4. Enter your API in the `keys.js` file, within the config folder
+   ```
    const API_KEY = 'ENTER YOUR API';
+   ```
+5. Create your local database
+   ```
+   createdb tmdb
+   ```
+6. Start the app!
+   ```
+   npm start
    ```
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
@@ -89,7 +102,7 @@ This is an example of how to list things you need to use the software and how to
 <!-- CONTACT -->
 ## Contact
 
-Project Link: [https://github.com/github_username/repo_name](https://github.com/github_username/repo_name)
+Project Link: https://github.com/jesicayu/TMDB
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
